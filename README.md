@@ -1,5 +1,7 @@
 # quantum-computer
 
+Nobel Laureate Bill Phillips said that using quantum principles to compute is as different as classical computing as a classical supercomputer is from an abacus.
+
 ## What is Quantum computing?
 
 Quantum computing is a multidisciplinary field comprising aspects of computer science, physics, and mathematics that utilizes quantum mechanics to solve complex problems faster than on classical computers. The field of quantum computing includes hardware research and application development. Quantum computers are able to solve certain types of problems faster than classical computers by taking advantage of quantum mechanical effects, such as superposition and quantum interference.
@@ -25,6 +27,35 @@ Quantum volume is a metric that measures the capabilities and error rates of a q
 
 ## Development Roadmap
 ![Screenshot 2024-01-18 054240](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/2f971fc5-4b28-4422-9f40-0d9239485d00)
+
+## some quantum base technology is still working-
+
+# 1.IBM and Daimler use quantum computer to develop next-gen batteries
+
+Electric vehicles have an Achilles heel: the capacity and speed-of-charging of their batteries. A quantum computing breakthrough by researchers at IBM and Daimler AG, the parent company of  Mercedes-Benz, could help tackle this challenge. We used a quantum computer to model the dipole moment of three lithium-containing molecules, which brings us one step closer the next-generation lithium sulfur (Li-S) batteries that would be more powerful, longer lasting and cheaper than today’s widely used lithium ion batteries.
+
+## NOTE- Quantum computers are not yet better than classical computers. They are very ‘noisy,’ meaning that any outside disturbance knocks the fragile qubits out of quantum states crucial for the calculation too early for them to run meaningful computations. 
+
+# 2.JP Morgan Chase and IBM for finance services industry
+
+use for simpling algorithm,to compute the expected value of a t-bill,showing a quadratic speed-up verses a classical.banking issues like non-performing assets and  loan risk profiling etc.
+
+# 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
