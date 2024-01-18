@@ -9,7 +9,9 @@ Quantum computing is a multidisciplinary field comprising aspects of computer sc
 Currently, no quantum computer can perform a useful task faster, cheaper, or more efficiently than a classical computer. Quantum advantage is the threshold where we have built a quantum system that can perform operations that the best possible classical computer cannot simulate in any kind of reasonable time.for ex:
 
 1.Drug discovery and chemistry in general
+
 2.Heath care and diagnosis to treat cancer
+
 3.era of fraud detection in finance transaction and risk protection
 
 ## quantum volume
@@ -29,7 +31,6 @@ Quantum volume is a metric that measures the capabilities and error rates of a q
 
 
 
-Introduction
 
 
 
