@@ -52,6 +52,13 @@ use for simpling algorithm,to compute the expected value of a t-bill,showing a q
 
 ![Screenshot 2024-01-18 063915](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/bf2f87a0-6316-43c8-841c-9dbe8b49659f)
 
+## Differentiate between classical computers and classical computers 
+
+![Screenshot 2024-01-18 070724](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/4f6f61b3-1a95-4eca-93b1-3b76163b9928)
+
+![Screenshot 2024-01-18 071446](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/a9129963-e396-4cc1-89aa-e93285f469f7)
+
+![Screenshot 2024-01-18 071948](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/2da7ea24-1b7e-4011-918d-f79bf290c956)
 
 
 
