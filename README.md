@@ -18,6 +18,11 @@ Quantum volume is a metric that measures the capabilities and error rates of a q
 
 ## NOTE-The current world record for highest quantum volume as of July 2023 is 2^19, accomplished by Quantinuum's H1-1 20-qubit ion trap quantum computer.
 
+## Roadmap
+![Screenshot 2024-01-18 053550](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/4c0967fe-6d28-47f1-844a-b5a5e99060b3)
+
+## Development Roadmap
+![Screenshot 2024-01-18 054240](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/2f971fc5-4b28-4422-9f40-0d9239485d00)
 
 
 
