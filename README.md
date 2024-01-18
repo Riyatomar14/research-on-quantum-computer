@@ -44,8 +44,11 @@ Electric vehicles have an Achilles heel: the capacity and speed-of-charging of t
 
 use for simpling algorithm,to compute the expected value of a t-bill,showing a quadratic speed-up verses a classical.banking issues like non-performing assets and  loan risk profiling etc.
 
+## some other-
 
 ![Screenshot 2024-01-18 063800](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/d4caedb1-6710-4671-8c19-a7868c4eafef)
+
+## roles-
 
 ![Screenshot 2024-01-18 063915](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/bf2f87a0-6316-43c8-841c-9dbe8b49659f)
 
