@@ -28,6 +28,10 @@ Quantum volume is a metric that measures the capabilities and error rates of a q
 ## Development Roadmap
 ![Screenshot 2024-01-18 054240](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/2f971fc5-4b28-4422-9f40-0d9239485d00)
 
+## subject include-
+
+![Screenshot 2024-01-18 060535](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/97d0b978-0149-473d-a193-91e088acd8d7)
+
 ## some quantum base technology is still working-
 
 # 1.IBM and Daimler use quantum computer to develop next-gen batteries
@@ -40,7 +44,11 @@ Electric vehicles have an Achilles heel: the capacity and speed-of-charging of t
 
 use for simpling algorithm,to compute the expected value of a t-bill,showing a quadratic speed-up verses a classical.banking issues like non-performing assets and  loan risk profiling etc.
 
-# 3.
+
+![Screenshot 2024-01-18 063800](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/d4caedb1-6710-4671-8c19-a7868c4eafef)
+
+![Screenshot 2024-01-18 063915](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/bf2f87a0-6316-43c8-841c-9dbe8b49659f)
+
 
 
 
