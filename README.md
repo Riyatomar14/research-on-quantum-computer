@@ -76,6 +76,11 @@ use for simpling algorithm,to compute the expected value of a t-bill,showing a q
 
 ![Screenshot 2024-01-20 101358](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/2e934f02-c47c-4767-ae90-22fb03f4d241)
 
+![Screenshot 2024-01-20 104427](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/7e0e4dbb-c651-44f2-8142-f82d2f678887)
+
+![Screenshot 2024-01-20 104558](https://github.com/Riyatomar14/research-on-quantum-computer/assets/143107173/0c96b7b3-a170-452a-b07d-83f4b518099c)
+
+
 
 
 
